@@ -4,7 +4,8 @@ class Solution {
         if(word1.length()>=word2.length()){
             for(int i =0; i<word1.length();i++){
                 if(i>word2.length()-1){
-                    result += word1.charAt(i);
+                    result += word1.substring(i);
+                    break;
                 }
                 else{
                     result += word1.charAt(i);
@@ -15,7 +16,8 @@ class Solution {
         else{
             for(int i =0; i<word2.length();i++){
                 if(i>word1.length()-1){
-                    result += word2.charAt(i);
+                    result += word2.substring(i);
+                    break;
                 }
                 else{
                     result += word1.charAt(i);
