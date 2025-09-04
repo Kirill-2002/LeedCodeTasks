@@ -7,10 +7,7 @@ class Solution {
                     result += word1.substring(i);
                     break;
                 }
-                else{
-                    result += word1.charAt(i);
-                    result += word2.charAt(i);
-                }
+                else{result = result + word1.charAt(i) + word2.charAt(i);}
             }
         }
         else{
@@ -19,10 +16,7 @@ class Solution {
                     result += word2.substring(i);
                     break;
                 }
-                else{
-                    result += word1.charAt(i);
-                    result += word2.charAt(i);
-                }
+                else{result = result + word1.charAt(i) + word2.charAt(i);}
             }
         }
         return result;
