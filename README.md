@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0001-two-sum) |
+| [0605-can-place-flowers](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0605-can-place-flowers) |
 ## Linked List
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/1894-merge-strings-alternately) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
