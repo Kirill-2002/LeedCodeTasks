@@ -1,26 +1,19 @@
 class Solution {
     public String reverseWords(String s) {
         
-        String word="";
-        String result="";
-
-        for(int i = 0; i < s.length();i++){
-            if(s.charAt(i)!=' '){
-                word+=s.charAt(i);
-            }
-            else if (word==""){
-                continue;
-            }
-            else{
-                result = " " + word  + result;
-                word="";
-            }
-
-            if(i==s.length()-1){
-                result= word + result;
-            }
+        String[] words = s.trim().split("\\s+");
+    
+    
+    StringBuilder reversed = new StringBuilder();
+    
+    
+    for (int i = words.length - 1; i >= 0; i--) {
+        reversed.append(words[i]);
+        if (i != 0) {
+            reversed.append(" ");
         }
-        result = result.trim();
-        return result;
+    }
+    
+    return reversed.toString();
     }
 }
