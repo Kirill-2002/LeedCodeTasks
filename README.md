@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0605-can-place-flowers) |
 ## Linked List
 |  |
@@ -46,5 +47,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
