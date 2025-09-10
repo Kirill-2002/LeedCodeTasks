@@ -6,17 +6,17 @@ class Solution {
         }
 
         int current=0;
-        String sub="";
+        int result=0;
         for(int i =0; i<s.length();i++){
             for(int j=current;j<t.length();j++){
                 if(s.charAt(i)==t.charAt(j)){
                     current=j+1;
-                    sub+=t.charAt(j);
+                    result++;
                     break;
                 }
             }
         }
-        if(sub.length()==s.length()){
+        if(result==s.length()){
             return true;
         }
         else return false;
