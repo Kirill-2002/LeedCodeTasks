@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0724-find-pivot-index) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Linked List
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0392-is-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
