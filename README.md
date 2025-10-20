@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0724-find-pivot-index) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
