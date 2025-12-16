@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0392-is-subsequence) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/0020-valid-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Kirill-2002/LeedCodeTasks/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
